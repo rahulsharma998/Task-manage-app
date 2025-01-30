@@ -3,7 +3,7 @@
 ## Setup
 1. **Clone Repository**
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/rahulsharma998/Task-manage-app.git)
    ```
 2. **Install Dependencies**
    ```bash
