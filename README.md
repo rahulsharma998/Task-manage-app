@@ -3,7 +3,7 @@
 ## Setup
 1. **Clone Repository**
    ```bash
-   git clone [<repository-url>](https://github.com/rahulsharma998/Task-manage-app.git)
+   git clone [(https://github.com/rahulsharma998/Task-manage-app.git)]
    ```
 2. **Install Dependencies**
    ```bash
@@ -73,5 +73,5 @@
 npm start
 ```
 
-Now your API is ready to use! 🚀
+Now your API is ready to use! 
 
